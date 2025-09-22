@@ -1,0 +1,12 @@
+# Node modules
+/node_modules
+
+# Logs
+*.log
+
+# Env
+.env
+
+#OS files
+.DS_Store
+Tumbs.debu
